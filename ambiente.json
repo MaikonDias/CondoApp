@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "nome": "Churrasqueira",
+        "lotmax": 30,
+        "desc": "Aproveite um belo churrasco no final de semana"
+    },
+    {
+        "id": 2,
+        "nome": "Quadra",
+        "lotmax": 50,
+        "desc": "Quadra esportiva para a prática de diversos esportes"
+    }
+]
